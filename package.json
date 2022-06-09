@@ -1,0 +1,21 @@
+{
+  "name": "xieon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Sohom829",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^17.7.2"
+  },
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "express": "^4.18.1",
+    "npm": "^8.12.1"
+  }
+}
